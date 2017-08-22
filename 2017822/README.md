@@ -76,21 +76,21 @@ viewport的中文是【视口】，也就是网页的显示区域。但是viewpo
 <h2 id="resources">相关资料(按照排列顺序阅读)</h2>
 - 博客
 
-	- [自适应网页设计（Responsive Web Design）](http://www.ruanyifeng.com/blog/2012/05/responsive_web_design.html)
-  
-	- [响应式和自适应的区别](http://blog.csdn.net/bboyjoe/article/details/46501977)
+  + [自适应网页设计（Responsive Web Design）](http://www.ruanyifeng.com/blog/2012/05/responsive_web_design.html)
 
-	- [Css 单位](https://www.w3cschool.cn/cssref/css-units.html)
+  + [响应式和自适应的区别](http://blog.csdn.net/bboyjoe/article/details/46501977)
 
-	- [px、em、rem区别介绍](http://www.runoob.com/w3cnote/px-em-rem-different.html)
+  + [Css 单位](https://www.w3cschool.cn/cssref/css-units.html)
 
-	- [CSS中的em运用详解，1em等于多少像素？](http://www.17xsj.com/XHTML_CSS/CSSjiaocheng/2167.html)
+  + [px、em、rem区别介绍](http://www.runoob.com/w3cnote/px-em-rem-different.html)
 
-	- [Rem VS Px](http://www.w3cplus.com/css/r-i-p-rem-viva-css-reference-pixel.html)
+  + [CSS中的em运用详解，1em等于多少像素？](http://www.17xsj.com/XHTML_CSS/CSSjiaocheng/2167.html)
 
-	- [视区相关单位vw, vh..简介以及可实际应用场景](http://www.zhangxinxu.com/wordpress/?p=2636)
+  + [Rem VS Px](http://www.w3cplus.com/css/r-i-p-rem-viva-css-reference-pixel.html)
 
-	- [移动前端开发之viewport的深入理解](http://www.cnblogs.com/2050/p/3877280.html)
+  + [视区相关单位vw, vh..简介以及可实际应用场景](http://www.zhangxinxu.com/wordpress/?p=2636)
+
+  + [移动前端开发之viewport的深入理解](http://www.cnblogs.com/2050/p/3877280.html)
 
 
 <h2 id="ps-skill">个人PS切图技巧(应该没有问题)</h2>
