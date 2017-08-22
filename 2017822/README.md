@@ -55,16 +55,14 @@
 * 允许宽度自动调整
 ```
 　　<meta name="viewport" content="width=device-width, initial-scale=1" />
-
 ```
 viewport的中文是【视口】，也就是网页的显示区域。但是viewport不局限于你所能看到的部分，有可能大于或者小于浏览器的可视范围
 
 * 使用相对宽度
 ```
-　　width:xx%;
-    width:xxvw;
-    ···
-
+	width:xx%;
+	width:xxvw;
+	···
 ```
 
 * 相对字体大小,如em、rem等
@@ -77,20 +75,20 @@ viewport的中文是【视口】，也就是网页的显示区域。但是viewpo
 
 <h2 id="resources">相关资料(按照排列顺序阅读)</h2>
 - 博客
-	- [自适应网页设计（Responsive Web Design）](http://www.ruanyifeng.com/blog/2012/05/responsive_web_design.html)
-	- [响应式和自适应的区别](http://blog.csdn.net/bboyjoe/article/details/46501977)
-	- [Css 单位](https://www.w3cschool.cn/cssref/css-units.html)
-	- [px、em、rem区别介绍](http://www.runoob.com/w3cnote/px-em-rem-different.html)
-	- [CSS中的em运用详解，1em等于多少像素？](http://www.17xsj.com/XHTML_CSS/CSSjiaocheng/2167.html)
-	- [Rem VS Px](http://www.w3cplus.com/css/r-i-p-rem-viva-css-reference-pixel.html)
-	- [视区相关单位vw, vh..简介以及可实际应用场景](http://www.zhangxinxu.com/wordpress/?p=2636)
-	- [移动前端开发之viewport的深入理解](http://www.cnblogs.com/2050/p/3877280.html)
+  - [自适应网页设计（Responsive Web Design）](http://www.ruanyifeng.com/blog/2012/05/responsive_web_design.html)
+  - [响应式和自适应的区别](http://blog.csdn.net/bboyjoe/article/details/46501977)
+  - [Css 单位](https://www.w3cschool.cn/cssref/css-units.html)
+  - [px、em、rem区别介绍](http://www.runoob.com/w3cnote/px-em-rem-different.html)
+  - [CSS中的em运用详解，1em等于多少像素？](http://www.17xsj.com/XHTML_CSS/CSSjiaocheng/2167.html)
+  - [Rem VS Px](http://www.w3cplus.com/css/r-i-p-rem-viva-css-reference-pixel.html)
+  - [视区相关单位vw, vh..简介以及可实际应用场景](http://www.zhangxinxu.com/wordpress/?p=2636)
+  - [移动前端开发之viewport的深入理解](http://www.cnblogs.com/2050/p/3877280.html)
 
 
 <h2 id="ps-skill">个人PS切图技巧(应该没有问题)</h2>
 * PS按照下图操作，点开【窗口】的【信息】(F8)，左边的【切片工具】(shift+c按3次)，关闭右下角的【背景图层】(点那个眼睛)
 
-<img src="img/ps1.png" width="700px">
+<img src="img/ps1.png">
 * 右键下图的小方块选择【将缩略图剪切到图层边界】
 <img src="img/ps2.png">
 * 利用刚才的切片工具去选定你所要的图案，之后【文件】的【存储为Web的所用格式】(ctrl+alt+shfit+s)
