@@ -74,6 +74,7 @@ viewport的中文是【视口】，也就是网页的显示区域。但是viewpo
 * 图片自适应
 
 <h2 id="resources">相关资料(按照排列顺序阅读)</h2>
+
 * 博客
 
   + [自适应网页设计（Responsive Web Design）](http://www.ruanyifeng.com/blog/2012/05/responsive_web_design.html)
