@@ -18,6 +18,7 @@
 
 
 <h2 id="rem-media">自适应/响应式布局</h2>
+
 ### "自适应网页设计"的概念
 
 2010年，Ethan Marcotte提出了"[自适应网页设计](https://alistapart.com/article/responsive-web-design)"（Responsive Web Design）这个名词，指可以自动识别屏幕宽度、并作出相应调整的网页设计。
