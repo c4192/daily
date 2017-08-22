@@ -3,26 +3,23 @@
 ## 今天完成：
 - task3和task4的rem+media布局
 
--
 ## 今天收获：
 - [进一步了解rem+media布局](#rem-media)
-	-[相关资料](#resources)
+	- [相关资料](#resources)
 - [对PS切图进行了细微改进](#ps-skill)
 - 尝试了github的markdown功能
 
--
 ## 遇到问题：
 - 尚无
 
--
 ## 明天计划：
 - 阅读有关布局的技术博客，task5继续推后
 
--
 
 
 <h2 id="rem-media">自适应/响应式布局</h2>
 ### "自适应网页设计"的概念
+
 2010年，Ethan Marcotte提出了"[自适应网页设计](https://alistapart.com/article/responsive-web-design)"（Responsive Web Design）这个名词，指可以自动识别屏幕宽度、并作出相应调整的网页设计。
 
 这是他做出的一个[范例](https://alistapart.com/d/responsive-web-design/ex/ex-site-flexible.html)
@@ -65,8 +62,8 @@ viewport的中文是【视口】，也就是网页的显示区域。但是viewpo
 * 使用相对宽度
 ```
 　　width:xx%;
-	width:xxvw;
-	···
+    width:xxvw;
+    ···
 
 ```
 
@@ -79,7 +76,7 @@ viewport的中文是【视口】，也就是网页的显示区域。但是viewpo
 * 图片自适应
 
 <h2 id="resources">相关资料(按照排列顺序阅读)</h2>
-* 博客
+- 博客
 	- [自适应网页设计（Responsive Web Design）](http://www.ruanyifeng.com/blog/2012/05/responsive_web_design.html)
 	- [响应式和自适应的区别](http://blog.csdn.net/bboyjoe/article/details/46501977)
 	- [Css 单位](https://www.w3cschool.cn/cssref/css-units.html)
