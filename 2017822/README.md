@@ -3,26 +3,24 @@
 ## 今天完成：
 - task3和task4的rem+media布局
 
--
 ## 今天收获：
 - [进一步了解rem+media布局](#rem-media)
 	- [相关资料](#resources)
 - [对PS切图进行了细微改进](#ps-skill)
 - 尝试了github的markdown功能
 
--
 ## 遇到问题：
 - 尚无
 
--
 ## 明天计划：
 - 阅读有关布局的技术博客，task5继续推后
 
--
 
 
 <h2 id="rem-media">自适应/响应式布局</h2>
+
 ### "自适应网页设计"的概念
+
 2010年，Ethan Marcotte提出了"[自适应网页设计](https://alistapart.com/article/responsive-web-design)"（Responsive Web Design）这个名词，指可以自动识别屏幕宽度、并作出相应调整的网页设计。
 
 这是他做出的一个[范例](https://alistapart.com/d/responsive-web-design/ex/ex-site-flexible.html)
@@ -58,16 +56,14 @@
 * 允许宽度自动调整
 ```
 　　<meta name="viewport" content="width=device-width, initial-scale=1" />
-
 ```
 viewport的中文是【视口】，也就是网页的显示区域。但是viewport不局限于你所能看到的部分，有可能大于或者小于浏览器的可视范围
 
 * 使用相对宽度
 ```
-　　width:xx%;
+	width:xx%;
 	width:xxvw;
 	···
-
 ```
 
 * 相对字体大小,如em、rem等
@@ -79,15 +75,24 @@ viewport的中文是【视口】，也就是网页的显示区域。但是viewpo
 * 图片自适应
 
 <h2 id="resources">相关资料(按照排列顺序阅读)</h2>
+
 * 博客
-	- [自适应网页设计（Responsive Web Design）](http://www.ruanyifeng.com/blog/2012/05/responsive_web_design.html)
-	- [响应式和自适应的区别](http://blog.csdn.net/bboyjoe/article/details/46501977)
-	- [Css 单位](https://www.w3cschool.cn/cssref/css-units.html)
-	- [px、em、rem区别介绍](http://www.runoob.com/w3cnote/px-em-rem-different.html)
-	- [CSS中的em运用详解，1em等于多少像素？](http://www.17xsj.com/XHTML_CSS/CSSjiaocheng/2167.html)
-	- [Rem VS Px](http://www.w3cplus.com/css/r-i-p-rem-viva-css-reference-pixel.html)
-	- [视区相关单位vw, vh..简介以及可实际应用场景](http://www.zhangxinxu.com/wordpress/?p=2636)
-	- [移动前端开发之viewport的深入理解](http://www.cnblogs.com/2050/p/3877280.html)
+
+  + [自适应网页设计（Responsive Web Design）](http://www.ruanyifeng.com/blog/2012/05/responsive_web_design.html)
+
+  + [响应式和自适应的区别](http://blog.csdn.net/bboyjoe/article/details/46501977)
+
+  + [Css 单位](https://www.w3cschool.cn/cssref/css-units.html)
+
+  + [px、em、rem区别介绍](http://www.runoob.com/w3cnote/px-em-rem-different.html)
+
+  + [CSS中的em运用详解，1em等于多少像素？](http://www.17xsj.com/XHTML_CSS/CSSjiaocheng/2167.html)
+
+  + [Rem VS Px](http://www.w3cplus.com/css/r-i-p-rem-viva-css-reference-pixel.html)
+
+  + [视区相关单位vw, vh..简介以及可实际应用场景](http://www.zhangxinxu.com/wordpress/?p=2636)
+
+  + [移动前端开发之viewport的深入理解](http://www.cnblogs.com/2050/p/3877280.html)
 
 
 <h2 id="ps-skill">个人PS切图技巧(应该没有问题)</h2>
