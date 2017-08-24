@@ -18,8 +18,11 @@
 
 <img src="img/blur.png">
 它把要设置的和其子元素全模糊了，于是我又去百度了页，在刚才的搜索项里我看到了“不影响子元素”的字眼，请看链接[高级CSS filters](http://www.w3cplus.com/css3/advanced-css-filters.html)。当时特别开心的就把解决方法扔到了代码里，然而并没有卵用，于是我就又打开了这个网页，看到了其中的一行话“注：在你的浏览器中你是看不到有任何效果，因为到目前为止仅有Safari 9浏览器支持，如果您想在浏览器中看到相应的效果，可以下载Webkit Nightly浏览器”。大哥，你这个位置放的太靠下了，我没看到啊，于是我又返回了百度“[css3父元素模糊不影响子元素](http://blog.csdn.net/u014520745/article/details/54585310)”，这回很成功，解决了问题，详情看链接
+
 - task5中的头像我是使用background解决的，没有直接添加图片。一开始我分别设置了background-color和image，但是都会被后面一个覆盖，于是我就去搜索“background color image”了，答案来的如此之快 -- <当同时定义了背景颜色和背景图像时，背景图像覆盖在背景颜色之上。>
+
 - task5底下一大段话，在屏幕变小的时候会相互挤压，从而导致变形，然后通过搜索又get一个属性white-space: nowrap，这就是强制不换行了，配合flex，只会有一边进行挤压
+
 - background-image的position和size属性，尤其是size属性，总会在让我感觉用cover的地方用contain来解决，有点小郁闷
 
 ## 明天计划：
